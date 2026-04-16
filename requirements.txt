@@ -1,0 +1,23 @@
+# RetailPulse AI Requirements
+
+## Backend (Node.js)
+express
+multer
+danfojs-node
+simple-statistics
+@google/genai
+axios
+dotenv
+
+## Frontend (React)
+react
+react-dom
+recharts
+lucide-react
+motion
+tailwindcss
+shadcn/ui
+
+## Environment
+Node.js >= 18.0.0
+Vite >= 6.0.0
